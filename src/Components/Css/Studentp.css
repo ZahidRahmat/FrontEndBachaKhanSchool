@@ -1,0 +1,19 @@
+.student-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    margin-top: 100px;
+  }
+  
+  .student-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .The_head{
+    text-align: center;
+    color:red;
+    margin-top: 40px;
+    font-size: 20px;
+  }

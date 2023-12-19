@@ -1,0 +1,109 @@
+
+ .the_style_for_admin a{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+    align-items: center;
+    width: 170px;
+    margin: 20px;
+    padding-left: 10px;
+    color: black;
+    font-size: 1.2rem;
+    color: black;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: all 0.4s ease-in-out;
+    border: 1px solid;
+}
+.admin_img{
+    margin-left: 200px;
+}
+.the_style_for_admin a:hover {
+    transform: translateX(10px);
+    background-color: rgb(218, 209, 209);
+}
+/* .the_style_for_admin{
+ border:1px solid black;
+ margin: 5px;
+ margin-bottom: 400px;
+} */
+/* .the_second{
+    display: flex;
+    gap: 350px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon_container {
+    
+} */
+
+.the_third{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 10px;
+    margin-right: 25rem;
+    margin-top: 10px;
+    
+}
+.navbar-brand {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: start;
+    justify-content: start;
+    column-gap: 3px;
+}
+
+.the_admin {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    
+}   
+
+.stats {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 20px
+}
+
+
+.icon {
+    font-size: 25px;
+    position: absolute;
+    right: 0px;
+    margin-bottom: 5px;
+}
+
+.Menu{
+    font-size:medium;
+    margin-left: 30px;
+    margin-top: 20px;
+   
+}
+.form-select{
+    margin-left: 1200px;
+    width: 20%;
+    height: 60px;
+}
+.bell{
+    
+    margin-left: 1000px;
+}
+.iii{
+    width: 50px;
+    height: 50px;
+}
+.the_second{
+    margin-top: -50px;
+}

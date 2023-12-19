@@ -1,0 +1,53 @@
+.Zahid {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px;
+    position: relative;
+    left: 500px;
+  }
+  
+  .Label_log {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .Input_log, 
+  .Select_log,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .Button_log {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .Button_log:hover {
+    background-color:red;
+  }
+  
+  .Select_log {
+    height: 40px;
+  }
+  
+  .Input_log[type="file"] {
+    border: none;
+  }
+  
+  .HA {
+    margin-bottom: 10px;
+    /* border-bottom: 2px solid red; */
+  }

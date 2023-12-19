@@ -1,0 +1,73 @@
+
+.abc {
+  /* background-image: url(C:\Users\DELL\Desktop\MyReactProject\first_react_app\src\Components\Images\student2.jpg); */
+  font-family: 'Arial', sans-serif; 
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 600px;
+}
+
+.contactus-container {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  width: 50%; 
+  max-width: 900px;
+  
+}
+
+.header {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 24px;
+  color: red; 
+  border-bottom: 2px solid #eaeaea;
+  margin-bottom: 20px;
+  margin-right: -30px;
+}
+
+
+.container .row {
+  margin: 0 -15px;
+}
+
+.container .row .col {
+  padding: 0 15px;
+}
+
+.form-control {
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #eaeaea;
+  padding: 10px 15px;
+  font-size: 16px;
+  transition: border 0.3s ease;
+  margin-left: -100px;
+  
+}
+
+.form-control:focus {
+  border-color: #4a90e2;
+  outline: none;
+  box-shadow: none;
+}
+
+.btn-success {
+  background-color: red; 
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 30px;
+  margin-top:20px;
+}
+
+.btn-btn-success{
+  margin-left: -100px;
+}
+.btn-success:hover {
+  background-color: #357ab5;
+}

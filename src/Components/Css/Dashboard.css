@@ -1,0 +1,40 @@
+/* Dashboard Container
+.dashboard-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    height: 850px
+  }
+  
+  /* Sidebar */
+  /* .sidebar {
+    flex: 1;
+    padding: 16px;
+    background-color: #f2f2f2;
+  }
+   */
+  /* .button {
+    margin-bottom: 12px;
+    padding: 14px 20px;
+    background-color: #2196F3;
+    color: white;
+    cursor: pointer;
+    width: 350px;
+  }
+  
+  .button:hover {
+    background-color: #1976D2;
+  } */
+  
+  /* Graph Container */
+  /* .graph-container {
+    flex: 2;
+    padding: 16px;
+    background-color: #fff;
+    width: 100%;
+  } */
+  
+  /* .graph {
+    height: 400px;
+  }
+   */ 

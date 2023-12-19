@@ -1,0 +1,18 @@
+.student-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    margin-top: 100px;
+  }
+  
+  .student-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .head{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+  }

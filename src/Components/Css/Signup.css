@@ -1,0 +1,16 @@
+/* .background{
+  background-image: url();
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+  display: 'flex', 
+    justifyContent: 'center', 
+    alignItems: 'center', 
+    height: '100vh', 
+    backgroundImage: 'url(${back})', // pointing to the image in the public directory
+    backgroundSize: 'cover', // this will cover the entire viewport
+    backgroundPosition: 'center'
+} */
