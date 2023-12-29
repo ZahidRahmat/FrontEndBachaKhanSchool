@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:5000";
+const url = "https://bacha-khan-school.vercel.app";
 
 export const addApplicant = async (applicantData) => {
   console.log(applicantData);
